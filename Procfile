@@ -1,1 +1,1 @@
-web: python3 iamgen.py
+web: python3 imagen.py
