@@ -1,6 +1,6 @@
 # Imagen-Bot
 
-A telegram Bot that can Genrate Images based on prompt
+A Telegram Bot that can Genrate Images based on prompt
 
 Needs a GPU with CUDA to work
 
