@@ -1,7 +1,13 @@
-# imagen-telegram-bot
+# Imagen-Bot
 
-input : prompt
-
-output : ai created image matching prompt descrption
+A telegram Bot that can Genrate Images based on prompt
 
 Needs a GPU with CUDA to work
+
+---
+
+## Variables
+
+- `BOT_TOKEN` Your bot token from @BotFather
+
+---
