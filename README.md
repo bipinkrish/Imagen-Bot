@@ -8,6 +8,6 @@ Needs a GPU with CUDA to work
 
 ## Variables
 
-- `BOT_TOKEN` Your bot token from @BotFather
+- `TOKEN` Your bot token from @BotFather
 
 ---
